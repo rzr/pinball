@@ -22,7 +22,7 @@ Build-Depends: debhelper-compat (= 13),
                libtool-bin,
                libltdl-dev,
                pkg-config
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Vcs-Browser: https://sourceforge.net/p/pinball/code/ci/master/tree/
 Vcs-Git: https://git.code.sf.net/p/pinball/code.git
 Homepage: https://sourceforge.net/projects/pinball/
