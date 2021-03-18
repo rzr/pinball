@@ -51,7 +51,7 @@ Architecture: any
 Depends: ${misc:Depends},
          libc6-dev,
          pinball (= ${binary:Version}),
-         libstdc++6-4.4-dev | libstdc++-dev
+         libstdc++-10-dev | libstdc++-dev
 Description: Development files for the Emilia Pinball Emulator
  The Emilia Pinball Project is a pinball simulator for Linux and other Unix
  systems. There are only two levels to play with, but they are very addictive.
