@@ -1,3 +1,10 @@
+pinball (0.3.20201218-2) unstable; urgency=medium
+
+  * d/control: Update preferred libstdc++ version (Closes: #985440)
+  * d/control: Update standards to latest
+
+ -- Philippe Coval <rzr@users.sf.net>  Thu, 18 Mar 2021 12:06:12 +0100
+
 pinball (0.3.20201218-1) unstable; urgency=medium
 
   * New upstream release
